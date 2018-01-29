@@ -63,7 +63,7 @@
 
               <tr>
                 <td align="center" style="font-size:48px; padding-top: 28px;" class="headlines">
-                    I &hearts; pictures
+                    I &hearts; taking and sharing pictures
                 </td>
               </tr>
 
